@@ -1,0 +1,2 @@
+write.table(humanActivityMeans, "tidy_data.txt", row.names = FALSE, 
+quote = FALSE)
